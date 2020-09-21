@@ -1,0 +1,11 @@
+export const SEARCH_TV = "SEARCH_TV";
+export const SET_SEARCH_TV = "SET_SEARCH_TV";
+export const SET_TV = "SET_TV";
+export const GET_TV = "GET_TV";
+export const ADD_TV = "ADD_TV";
+export const DELETE_TV = "DELETE_TV";
+export const GET_TV_INFO = "GET_TV_INFO";
+export const SET_TV_INFO = "SET_TV_INFO";
+export const CHANGE_EVENT = "CHANGE_EVENT";
+export const ADD_DATE_TV = "ADD_DATE_TV";
+export const ADD_RATING_TV = "ADD_RATING_TV";

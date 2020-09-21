@@ -1,0 +1,1 @@
+export const widthSideMenu = (isOpen) => isOpen ? '200px' : '50px';

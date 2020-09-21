@@ -1,0 +1,6 @@
+export const GET_SEARCH_MUSIC = "GET_SEARCH_MUSIC"
+export const SET_SEARCH_MUSIC = "SET_SEARCH_MUSIC"
+export const ADD_MUSIC = "ADD_MUSIC"
+export const SET_VIDEO = "SET_VIDEO"
+export const GET_VIDEO = "GET_VIDEO"
+export const DELETE_VIDEO = "DELETE_VIDEO"
