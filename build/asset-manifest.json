@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/koleno4ka/build/static/css/main.f3f6a645.chunk.css",
-    "main.js": "/koleno4ka/build/static/js/main.1d974619.chunk.js",
-    "main.js.map": "/koleno4ka/build/static/js/main.1d974619.chunk.js.map",
+    "main.js": "/koleno4ka/build/static/js/main.b2799bdc.chunk.js",
+    "main.js.map": "/koleno4ka/build/static/js/main.b2799bdc.chunk.js.map",
     "runtime-main.js": "/koleno4ka/build/static/js/runtime-main.ed580dc0.js",
     "runtime-main.js.map": "/koleno4ka/build/static/js/runtime-main.ed580dc0.js.map",
     "static/css/2.0974fb94.chunk.css": "/koleno4ka/build/static/css/2.0974fb94.chunk.css",
-    "static/js/2.270c91db.chunk.js": "/koleno4ka/build/static/js/2.270c91db.chunk.js",
-    "static/js/2.270c91db.chunk.js.map": "/koleno4ka/build/static/js/2.270c91db.chunk.js.map",
+    "static/js/2.d79e9db2.chunk.js": "/koleno4ka/build/static/js/2.d79e9db2.chunk.js",
+    "static/js/2.d79e9db2.chunk.js.map": "/koleno4ka/build/static/js/2.d79e9db2.chunk.js.map",
     "index.html": "/koleno4ka/build/index.html",
-    "precache-manifest.7203300e42e2b19453b2225a33a4cd1a.js": "/koleno4ka/build/precache-manifest.7203300e42e2b19453b2225a33a4cd1a.js",
+    "precache-manifest.a20ee6c3a529691a606343930cfb3603.js": "/koleno4ka/build/precache-manifest.a20ee6c3a529691a606343930cfb3603.js",
     "service-worker.js": "/koleno4ka/build/service-worker.js",
     "static/css/2.0974fb94.chunk.css.map": "/koleno4ka/build/static/css/2.0974fb94.chunk.css.map",
     "static/css/main.f3f6a645.chunk.css.map": "/koleno4ka/build/static/css/main.f3f6a645.chunk.css.map",
-    "static/js/2.270c91db.chunk.js.LICENSE.txt": "/koleno4ka/build/static/js/2.270c91db.chunk.js.LICENSE.txt",
+    "static/js/2.d79e9db2.chunk.js.LICENSE.txt": "/koleno4ka/build/static/js/2.d79e9db2.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/koleno4ka/build/static/media/Roboto-Regular.11eabca2.ttf",
     "static/media/bg_side.jpg": "/koleno4ka/build/static/media/bg_side.fc9cb053.jpg",
     "static/media/icon.png": "/koleno4ka/build/static/media/icon.05c4d974.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.ed580dc0.js",
     "static/css/2.0974fb94.chunk.css",
-    "static/js/2.270c91db.chunk.js",
+    "static/js/2.d79e9db2.chunk.js",
     "static/css/main.f3f6a645.chunk.css",
-    "static/js/main.1d974619.chunk.js"
+    "static/js/main.b2799bdc.chunk.js"
   ]
 }

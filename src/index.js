@@ -8,7 +8,7 @@ import createSagaMiddleware from "redux-saga";
 import rootReducer from './store/reducer/root'
 import rootSaga from './store/saga/index'
 import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles';
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 
 const sagaMiddleware = createSagaMiddleware();
 
@@ -32,13 +32,13 @@ const theme = createMuiTheme({
 });
 
 ReactDOM.render(
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <HashRouter basename={process.env.PUBLIC_URL}>
     <Provider store={store}>
       <ThemeProvider theme={theme}>
         <App />
       </ThemeProvider>
     </Provider>
-  </BrowserRouter >,
+  </HashRouter >,
   document.getElementById('root')
 );
 
