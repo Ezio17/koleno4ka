@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/koleno4ka/build/precache-manifest.a20ee6c3a529691a606343930cfb3603.js"
+  "/koleno4ka/build/precache-manifest.12b725535005865f7933715b377663c1.js"
 );
 
 self.addEventListener('message', (event) => {

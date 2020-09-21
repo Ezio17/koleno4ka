@@ -32,7 +32,7 @@ const theme = createMuiTheme({
 });
 
 ReactDOM.render(
-  <HashRouter basename={process.env.PUBLIC_URL}>
+  <HashRouter>
     <Provider store={store}>
       <ThemeProvider theme={theme}>
         <App />

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e795b95e244f1ddb19cbe0d6f1714f4b",
+    "revision": "c8bceabab79559e79b3c3388e2e41221",
     "url": "/koleno4ka/build/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/koleno4ka/build/static/css/2.0974fb94.chunk.css"
   },
   {
-    "revision": "ff9ff23cca222faeab77",
+    "revision": "0eccc5ca536e378d58d2",
     "url": "/koleno4ka/build/static/css/main.f3f6a645.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/koleno4ka/build/static/js/2.d79e9db2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff9ff23cca222faeab77",
-    "url": "/koleno4ka/build/static/js/main.b2799bdc.chunk.js"
+    "revision": "0eccc5ca536e378d58d2",
+    "url": "/koleno4ka/build/static/js/main.8550091a.chunk.js"
   },
   {
     "revision": "886c6bd14e3a7a04be70",
