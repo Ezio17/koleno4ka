@@ -32,7 +32,7 @@ const theme = createMuiTheme({
 });
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Provider store={store}>
       <ThemeProvider theme={theme}>
         <App />
